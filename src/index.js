@@ -8,7 +8,6 @@ const appContainer = document.getElementById('root')
 
 ReactDOM.render(
   <>
-    <App />
     <About />
     <Projects />
   </>, appContainer)
